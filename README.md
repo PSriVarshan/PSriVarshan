@@ -1,4 +1,4 @@
-![Header](https://github.com/PSriVarshan/PSriVarshan/assets/114944059/a7b6d488-4db1-45ca-b244-e5b65ab7065f)
+<img align="center" alt="coding" width="2000" src="https://github.com/PSriVarshan/PSriVarshan/assets/114944059/a7b6d488-4db1-45ca-b244-e5b65ab7065f">
 
 
 
