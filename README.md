@@ -6,8 +6,8 @@
 - 🔭 I’m currently a student at Saveetha Engineering College, Chennai. 
 - 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate on Artificial Intelligence 
-- 📫 Reach me through: **psvvarshan@gmail.com** 
-<br /> [<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/p-sri-varshan-912489247/) 
+- 📫 Reach me through:
+  **psvvarshan@gmail.com**           <br /> [<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/p-sri-varshan-912489247/) 
 
  <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c809a573eab9cf59441614b447a0df7af59d4743fe00cad4a78fcd7d9fcdb0a5/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966">
  
