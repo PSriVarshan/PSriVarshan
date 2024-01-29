@@ -9,7 +9,7 @@
 - 📫 Reach me through:
   **psvvarshan@gmail.com**           <br /> [<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/p-sri-varshan-912489247/) 
 
- <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
+ <img align="right" alt="coding" width="400" src="https://media.tenor.com/k_FD58xnsicAAAAj/work-internet.gif">
  
 #### Have experience with :
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>   <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript.png" alt="javascript"/>   <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>   <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>    <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>   <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
