@@ -25,6 +25,8 @@
 > Definitely need to work on my stats!!
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PSriVarshan&theme=tokyonight)
+
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/PsvVarshan?theme=nord&font=Nokora&ext=activity) 
 
