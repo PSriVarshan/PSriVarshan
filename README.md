@@ -5,8 +5,8 @@
 <br>
 
 - 🔭 I’m currently a student at Saveetha Engineering College, Chennai. 
-- 🌱 I’m currently learning Android Development
-- 👯 I’m looking to collaborate on Artificial Intelligence 
+- 🌱 I’m currently learning Web Application Development
+- 👯 I’m looking to collaborate on UI/UX
 - 📫 Reach me through:
   **psvvarshan@gmail.com**           <br /> [<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/p-sri-varshan-912489247/) 
 
