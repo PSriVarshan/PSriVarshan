@@ -17,7 +17,6 @@
 #### Check my profile 
 
  
- <img width="41" height="41" src="https://img.icons8.com/cotton/64/website--v1.png" alt="website--v1"/>
 
  <img align="right" alt="coding" width="400" src="https://media.tenor.com/9W1BZ1647CAAAAAi/the-loveable-zoo-cat.gif">
  
