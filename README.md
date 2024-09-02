@@ -33,12 +33,10 @@
 
  <img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
 
-> Definitely need to work on my stats!!
 
 
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/PsvVarshan?theme=nord&font=Nokora&ext=activity) 
 
 
 
