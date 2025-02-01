@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently a student at **Saveetha Engineering College, Chennai**
 - 🔭 I’m currently enrolled in **Artificial Intelligence and Machine Learning**
-- ✔️ Marking checks on my **Goals**
+- ✔️ Marking checks on my **All of Java**
   <hr>
 📫 Reach me through:
 
